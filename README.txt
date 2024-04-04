@@ -1,1 +1,1 @@
-от git_work -> feature
+от git_work -> feature -> second commit
